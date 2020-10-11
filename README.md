@@ -1,9 +1,9 @@
 ### Привет 👋
-<br></br>
+---
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaBurtelov&show_icons=true&theme=dark" />
 </p>
-
+---
 ⚡ Рабочий стэк
 
 ![Java](https://img.shields.io/badge/Java---?color=333&logo=Java&logoColor=orange&style=for-the-badge)
@@ -13,7 +13,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle---?color=333&logo=Oracle&logoColor=C30&style=for-the-badge)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?logo=MySQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.mysql.com/)
-
+---
 <!--
 **NikitaBurtelov/NikitaBurtelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
