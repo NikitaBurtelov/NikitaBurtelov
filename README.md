@@ -1,4 +1,4 @@
-### Привет 👋
+### Привет <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ---
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaBurtelov&show_icons=true&theme=dark" />
