@@ -1,10 +1,10 @@
-### Привет <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Привет <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 # <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaBurtelov&show_icons=true&theme=dark" />
 </p>
 
-# ⚡ Рабочий стэк
+### ⚡ Рабочий стэк
 
 ![Java](https://img.shields.io/badge/Java---?color=333&logo=Java&logoColor=orange&style=for-the-badge)
 [![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=9cf)](https://python.org)
